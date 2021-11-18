@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sensor</string>
+    <string name="label_brightness">Level : %1$.2f lux</string>
+    <string name="label_proximity">Object : %1$.2f cm</string>
+</resources>
